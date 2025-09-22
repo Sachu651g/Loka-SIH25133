@@ -5,7 +5,7 @@ It helps users analyze **electricity consumption, CO2 emissions, and device-leve
 
 ## Features
 - 🔹 Customer ID-based lookup from energy bills  
-- 🔹 Real-time energy consumption tracking  
+- 🔹 Real-time Energy Consumption tracking  
 - 🔹 CO2 emission analysis and impact metrics  
 - 🔹 Personalized energy-saving tips  
 - 🔹 Responsive UI for desktop and mobile  
